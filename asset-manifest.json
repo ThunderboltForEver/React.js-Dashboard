@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/React.js-Dashboard/static/css/main.24c7edca.css",
-    "main.js": "/React.js-Dashboard/static/js/main.ff3dfb12.js",
+    "main.css": "/React.js-Dashboard/static/css/main.0b8f4be3.css",
+    "main.js": "/React.js-Dashboard/static/js/main.a4b8a9d6.js",
     "static/media/welcome.png": "/React.js-Dashboard/static/media/welcome.3a0dea0e2afe2ce1ab2a.png",
     "static/media/avatar.png": "/React.js-Dashboard/static/media/avatar.a96eb7a29284bc051da9.png",
     "index.html": "/React.js-Dashboard/index.html",
-    "main.24c7edca.css.map": "/React.js-Dashboard/static/css/main.24c7edca.css.map",
-    "main.ff3dfb12.js.map": "/React.js-Dashboard/static/js/main.ff3dfb12.js.map"
+    "main.0b8f4be3.css.map": "/React.js-Dashboard/static/css/main.0b8f4be3.css.map",
+    "main.a4b8a9d6.js.map": "/React.js-Dashboard/static/js/main.a4b8a9d6.js.map"
   },
   "entrypoints": [
-    "static/css/main.24c7edca.css",
-    "static/js/main.ff3dfb12.js"
+    "static/css/main.0b8f4be3.css",
+    "static/js/main.a4b8a9d6.js"
   ]
 }
