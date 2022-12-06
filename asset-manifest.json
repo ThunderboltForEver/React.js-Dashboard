@@ -1,19 +1,25 @@
 {
   "files": {
-    "main.css": "/React.js-Dashboard/static/css/main.e08f436a.css",
-    "main.js": "/React.js-Dashboard/static/js/main.af5a6334.js",
+    "main.css": "/React.js-Dashboard/static/css/main.bd7a761d.css",
+    "main.js": "/React.js-Dashboard/static/js/main.88272307.js",
     "static/media/news-04.png": "/React.js-Dashboard/static/media/news-04.a02aff23df72ac1dcc1f.png",
     "static/media/news-02.png": "/React.js-Dashboard/static/media/news-02.c015f313cf6cf401ac2c.png",
     "static/media/news-01.png": "/React.js-Dashboard/static/media/news-01.b852d39c771ffd520f8a.png",
     "static/media/news-03.png": "/React.js-Dashboard/static/media/news-03.1a9d17ff67474cc45ffb.png",
     "static/media/welcome.png": "/React.js-Dashboard/static/media/welcome.3a0dea0e2afe2ce1ab2a.png",
     "static/media/avatar.png": "/React.js-Dashboard/static/media/avatar.a96eb7a29284bc051da9.png",
+    "static/media/eps.svg": "/React.js-Dashboard/static/media/eps.4ff492e31752118e62ed3e97668e8100.svg",
+    "static/media/psd.svg": "/React.js-Dashboard/static/media/psd.6dda1b1f76ae4c6047a57a6c5d1e4d94.svg",
+    "static/media/pdf.svg": "/React.js-Dashboard/static/media/pdf.9ae431294cccc46fea9c16ea41a2fb13.svg",
+    "static/media/zip.svg": "/React.js-Dashboard/static/media/zip.aaf8123f4b73998de3d686696ae4145a.svg",
+    "static/media/avi.svg": "/React.js-Dashboard/static/media/avi.b31b126e336512377f7656922ebe7357.svg",
+    "static/media/dll.svg": "/React.js-Dashboard/static/media/dll.7db3001414bd4da8d79264121905145f.svg",
     "index.html": "/React.js-Dashboard/index.html",
-    "main.e08f436a.css.map": "/React.js-Dashboard/static/css/main.e08f436a.css.map",
-    "main.af5a6334.js.map": "/React.js-Dashboard/static/js/main.af5a6334.js.map"
+    "main.bd7a761d.css.map": "/React.js-Dashboard/static/css/main.bd7a761d.css.map",
+    "main.88272307.js.map": "/React.js-Dashboard/static/js/main.88272307.js.map"
   },
   "entrypoints": [
-    "static/css/main.e08f436a.css",
-    "static/js/main.af5a6334.js"
+    "static/css/main.bd7a761d.css",
+    "static/js/main.88272307.js"
   ]
 }
