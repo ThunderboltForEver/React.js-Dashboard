@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/React.js-Dashboard/static/css/main.137d0971.css",
-    "main.js": "/React.js-Dashboard/static/js/main.7bcf1bec.js",
+    "main.css": "/React.js-Dashboard/static/css/main.a88525bc.css",
+    "main.js": "/React.js-Dashboard/static/js/main.dc17a4c4.js",
     "static/media/news-04.png": "/React.js-Dashboard/static/media/news-04.a02aff23df72ac1dcc1f.png",
     "static/media/news-02.png": "/React.js-Dashboard/static/media/news-02.c015f313cf6cf401ac2c.png",
     "static/media/news-01.png": "/React.js-Dashboard/static/media/news-01.b852d39c771ffd520f8a.png",
@@ -15,11 +15,11 @@
     "static/media/avi.svg": "/React.js-Dashboard/static/media/avi.b31b126e336512377f7656922ebe7357.svg",
     "static/media/dll.svg": "/React.js-Dashboard/static/media/dll.7db3001414bd4da8d79264121905145f.svg",
     "index.html": "/React.js-Dashboard/index.html",
-    "main.137d0971.css.map": "/React.js-Dashboard/static/css/main.137d0971.css.map",
-    "main.7bcf1bec.js.map": "/React.js-Dashboard/static/js/main.7bcf1bec.js.map"
+    "main.a88525bc.css.map": "/React.js-Dashboard/static/css/main.a88525bc.css.map",
+    "main.dc17a4c4.js.map": "/React.js-Dashboard/static/js/main.dc17a4c4.js.map"
   },
   "entrypoints": [
-    "static/css/main.137d0971.css",
-    "static/js/main.7bcf1bec.js"
+    "static/css/main.a88525bc.css",
+    "static/js/main.dc17a4c4.js"
   ]
 }
